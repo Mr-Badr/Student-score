@@ -7,7 +7,7 @@ package Java_Swing_Project;
  */
 public class Student {
     private String Name;
-    private float note1,note2,note3,moyenne;  // i have to change it to Average
+    private float note1,note2,note3,moyenne;  // moyenne = Average
 
     public Student(String Name, float note1, float note2, float note3, float moyenne) {
         this.Name = Name;
